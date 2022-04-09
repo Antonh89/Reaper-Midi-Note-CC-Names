@@ -1,0 +1,48 @@
+# Getgood Drums. One Kit Wonder: Modern Fusion - Invasion Preset
+# MIDI note/CC name map
+
+# KICK
+24 Kick Hit
+
+# SNARE
+26 Snare Hit
+30 Snare (Cross Stick)
+
+# TOMS
+33 Tom 1 Hit (Hi-Tom)
+34 Tom 2 Hit (Mid-Tom)
+35 Tom 3 Hit (Floor Tom)
+
+# RIDE
+61 Ride Bell
+62 Ride Bow
+
+# MAIN CRASH LEFT
+52 Main Crash L Hit
+53 Main Crash L Choke
+
+# MAIN CRASH RIGHT
+54 Main Crash R Hit
+55 Main Crash R Choke
+
+# HATS
+41 Hats Tip Tight
+42 Hats Edge Tight
+43 Hats Tip Closed
+44 Hats Edge Closed
+45 Hats Open 1
+46 Hats Open 2
+47 Hats Open 3
+48 Hats Pedal
+17 Hats CC
+
+# SPLASH
+73 Splash Hit
+74 Splash Choke
+
+# CHINA
+65 China Hit
+66 China Choke
+
+# STACK
+78 Stack Hit
