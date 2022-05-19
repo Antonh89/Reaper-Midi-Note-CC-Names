@@ -1,0 +1,40 @@
+# MIDI note/CC name map
+103 Tam Tam 4s
+101 Tam Tam 2s
+100 Tam Tam 1s
+96 Taiko High 4s
+95 Taiko High 2s
+93 Taiko High 1s
+89 Taiko Mid 4s
+88 Taiko Mid 2s
+86 Taiko Mid 1s
+83 Taiko Low 4s
+81 Taiko Low 2s
+79 Taiko Low 1s
+76 Snares High 4s
+74 Snares High 2s
+72 Snares High 1s
+69 Snares Low 4s
+67 Snares Low 2s
+65 Snares Low 1s
+62 Toms High 4s
+60 Toms High 2s
+59 Toms High 1s
+55 Toms Low 4s
+53 Toms Low 2s
+52 Toms Low 1s
+48 Gran Cassas 4s
+47 Gran Cassas 2s
+45 Gran Cassas 1s
+40 Tam Tam
+36 Taiko High
+33 Taiko Mid
+29 Taiko Low
+26 Snares High
+23 Snares Low
+19 Toms High
+16 Toms Low
+12 Gran Cassas
+CC16 (Jaeger) Dynamic Range
+CC11 (Jaeger) Expression
+CC1 (Jaeger) Dynamics

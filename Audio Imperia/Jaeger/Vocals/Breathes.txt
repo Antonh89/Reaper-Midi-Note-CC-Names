@@ -1,0 +1,11 @@
+# MIDI note/CC name map
+45 Var 10
+44 Var 9
+43 Var 8
+42 Var 7
+41 Var 6
+40 Var 5
+39 Var 4
+38 Var 3
+37 Var 2
+36 Var 1

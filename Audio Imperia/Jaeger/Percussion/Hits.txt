@@ -1,0 +1,20 @@
+# MIDI note/CC name map
+89 Tam Tam 
+84 Piatti
+79 Taiko High Rim
+74 Taiko High
+69 Taiko Mid Rim
+64 Taiko Mid 
+59 Taiko Low Rim
+53 Taiko Low 
+48 Sticks 
+43 Snare High Rim
+38 Snare High 
+33 Snares Low Rim
+28 Snares Low
+23 Toms High
+17 Toms Low
+12 Gran Cassas
+CC16 (Jaeger) Dynamic Range
+CC11 (Jaeger) Expression
+CC1 (Jaeger) Dynamics
