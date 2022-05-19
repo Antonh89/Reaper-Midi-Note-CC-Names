@@ -1,0 +1,15 @@
+# MIDI note/CC name map
+# The vocal range varies depending on the selected articulation
+# F#3 to F#5 for "Aah", E3 to E5 for others
+78 Highest
+52 Lowest
+17 Sustained Mmm
+16 Legato Mmm
+15 Sustained Ooh
+14 Legato Ooh
+13 Sustained Aah
+12 Legato Aah
+CC18 (Jaeger) Legato Smooth
+CC16 (Jaeger) Dynamic Range
+CC11 (Jaeger) Expression
+CC1 (Jaeger) Dynamics

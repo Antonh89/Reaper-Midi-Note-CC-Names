@@ -1,0 +1,16 @@
+# MIDI note/CC name map
+84 Highest
+48 Lowest
+19 Bartok Pizz.
+18 Col Legno
+17 Portato
+16 Staccato
+15 Spiccato
+14 Tremolo
+13 Sustained
+12 Legato
+CC21 (Jaeger) Vibrato
+CC18 (Jaeger) Legato Smooth
+CC16 (Jaeger) Dynamic Range
+CC11 (Jaeger) Expression
+CC1 (Jaeger) Dynamics
