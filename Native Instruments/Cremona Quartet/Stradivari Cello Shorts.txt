@@ -1,0 +1,17 @@
+# MIDI note/CC name map
+81 Highest
+36 Lowest
+28 Force open string
+26 Bow Change
+24 Ricochet
+23 Sautillé
+21 Col Legno
+19 Pizicato
+17 Staccato
+16 Spiccato
+14 Spiccatissimo
+12 Sautillé Single
+CC20 (Cremona) Vibrato Style
+CC15 (Cremona) Vibrato Rate
+CC14 (Cremona) Vibrato Intensity
+CC11 (Cremona) Expression
