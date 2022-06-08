@@ -1,0 +1,13 @@
+# MIDI note/CC name map
+91 Highest
+48 Lowest
+40 Force open string
+38 Bow Change
+29 Pizzicato
+28 Staccato
+26 Détaché Bowed
+24 Virtuoso 
+CC20 (Cremona) Vibrato Style
+CC15 (Cremona) Vibrato Rate
+CC14 (Cremona) Vibrato Intensity
+CC11 (Cremona) Expression

@@ -1,0 +1,17 @@
+# MIDI note/CC name map
+81 Highest
+36 Lowest
+28 Force open string
+26 Bow Change
+24 Trill Porta
+23 Tremolo Bowed
+21 Détaché Bowed
+19 Marcato Porta
+17 Marcato Bowed
+16 Sustain Porta
+14 Sustain Bowed
+12 Sustain Finger
+CC20 (Cremona) Vibrato Style
+CC15 (Cremona) Vibrato Rate
+CC14 (Cremona) Vibrato Intensity
+CC11 (Cremona) Expression

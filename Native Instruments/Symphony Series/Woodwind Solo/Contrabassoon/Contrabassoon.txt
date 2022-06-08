@@ -1,0 +1,10 @@
+# MIDI note/CC name map
+60 Highest
+22 Lowest
+17 Decrescendo
+16 Crescendo
+15 Stac Dbl Tongue
+14 Staccato
+13 Sustain p
+12 Sustain All
+
