@@ -11,7 +11,9 @@
 16 Spiccato
 14 Spiccatissimo
 12 Sautillé Single
+CC21 (Cremona) Position preference
 CC20 (Cremona) Vibrato Style
 CC15 (Cremona) Vibrato Rate
 CC14 (Cremona) Vibrato Intensity
 CC11 (Cremona) Expression
+CC1 (Cremona) Dynamics
