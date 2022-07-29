@@ -11,7 +11,9 @@
 40 Sustain Porta
 38 Sustain Bowed
 36 Sustain Finger
+CC21 (Cremona) Position preference
 CC20 (Cremona) Vibrato Style
 CC15 (Cremona) Vibrato Rate
 CC14 (Cremona) Vibrato Intensity
 CC11 (Cremona) Expression
+CC1 (Cremona) Dynamics
