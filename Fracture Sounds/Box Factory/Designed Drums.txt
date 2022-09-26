@@ -1,0 +1,33 @@
+# MIDI note/CC name map
+89 Fizzy Metals
+88 Fizzy Metals
+86 Robot Hihat
+84 Robot Hihat
+83 Lazy Susan
+81 Lazy Susan
+79 Roto Box
+77 Roto Box
+76 Thin Surround
+74 Thin Surround
+72 Full Fat Sand
+71 Full Fat Sand
+69 Hollow Knock
+67 Hollow Knock
+65 Tuned Cronchy Toms 
+64 Tuned Cronchy Toms 
+62 Amped Thump
+60 Amped Thump
+59 Cartoon Punch
+57 Cartoon Punch
+55 Crate Aunt
+53 Crate Aunt
+52 Broken box
+50 Broken box
+48 Chungus
+47 Chungus
+45 Chonk
+43 Chonk
+41 Lightly Toasted Box
+40 Lightly Toasted Box
+38 Electric Bump
+36 Electric Bump
