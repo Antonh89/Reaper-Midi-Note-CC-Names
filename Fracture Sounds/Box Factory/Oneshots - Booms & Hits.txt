@@ -1,0 +1,31 @@
+# MIDI note/CC name map
+103 Hit 14
+96 Hit 13
+95 Hit 12
+93 Hit 11
+91 Hit 10
+89 Hit 9
+88 Hit 8
+86 Hit 7
+81 Hit 6
+79 Hit 5
+77 Hit 4
+76 Hit 3
+74 Hit 2
+72 Hit 1
+
+60 Boom 15
+59 Boom 14
+57 Boom 13
+55 Boom 12
+53 Boom 11
+52 Boom 10
+50 Boom 9
+48 Boom 8
+47 Boom 7
+45 Boom 6
+43 Boom 5
+41 Boom 4
+40 Boom 3
+38 Boom 2
+36 Boom 1

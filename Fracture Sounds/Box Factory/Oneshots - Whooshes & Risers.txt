@@ -1,0 +1,35 @@
+# MIDI note/CC name map
+96 Riser 7
+95 Riser 6
+93 Riser 5
+91 Riser 4
+89 Riser 3
+88 Riser 2
+86 Riser 1
+
+81 Whoosh Hit 8
+79 Whoosh Hit 7
+77 Whoosh Hit 6
+76 Whoosh Hit 5
+74 Whoosh Hit 4
+72 Whoosh Hit 3
+71 Whoosh Hit 2
+69 Whoosh Hit 1
+
+64 Whoosh 17
+62 Whoosh 16
+60 Whoosh 15
+59 Whoosh 14
+57 Whoosh 13
+55 Whoosh 12
+53 Whoosh 11
+52 Whoosh 10
+50 Whoosh 9
+48 Whoosh 8
+47 Whoosh 7
+45 Whoosh 6
+43 Whoosh 5
+41 Whoosh 4
+40 Whoosh 3
+38 Whoosh 2
+36 Whoosh 1

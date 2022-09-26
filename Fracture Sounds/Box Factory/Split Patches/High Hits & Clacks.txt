@@ -1,0 +1,19 @@
+# MIDI note/CC name map
+65 Stick Clicks
+64 Stick Clicks
+62 Stick Clicks
+60 Stick Clicks
+59 Stick Clicks
+57 Stick Clicks
+55 Tiny Boxes (Hands)	
+53 Tiny Boxes (Hands)
+52 Tiny Boxes (Hands)
+50 Tiny Boxes (Hands)
+48 Small Boxes (Sticks)
+47 Small Boxes (Sticks)
+45 Small Boxes (Sticks)
+43 Small Boxes (Sticks)
+41 Small Boxes (Hands)
+40 Small Boxes (Hands)
+38 Small Boxes (Hands)
+36 Small Boxes (Hands)

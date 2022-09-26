@@ -1,0 +1,11 @@
+# MIDI note/CC name map
+52 Medium Boxes (Sticks)
+50 Medium Boxes (Sticks)
+48 Medium Boxes (Sticks)
+47 Medium Boxes (Sticks)
+45 Medium Boxes (Hands)
+43 Medium Boxes (Hands)
+41 Medium Boxes (Hands)
+40 Medium Boxes (Hands)
+38 Large Boxes (Sticks)
+36 Large Boxes (Sticks)
