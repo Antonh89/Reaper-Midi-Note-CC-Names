@@ -1,0 +1,11 @@
+# MIDI note/CC name map
+84 Highest
+36 Lowest
+31 Pedals Soft Sustains
+30 Pedals Staccato
+29 Pedals (8va) Staccato
+28 Pedals (8va) Sustains
+27 Light Staccato
+26 Light Sustains
+25 Full Staccato
+24 Full Sustains
