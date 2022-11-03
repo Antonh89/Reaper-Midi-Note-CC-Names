@@ -1,0 +1,17 @@
+# MIDI note/CC name map
+108 Highest
+20 Lowest
+
+# Signals
+CC24 (Intimate) Binaural 
+CC23 (Intimate) Condenser 
+CC22 (Intimate) Ribbon 
+
+# Big knob
+CC19 (Intimate) Reverb 
+CC18 (Intimate) Tightness
+
+CC11 (Intimate) Expression 
+CC10 (Intimate) Global Pan 
+CC7 (Intimate) Global Gain 
+CC1 (Intimate) Dynamics 
