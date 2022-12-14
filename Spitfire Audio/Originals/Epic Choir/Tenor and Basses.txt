@@ -1,0 +1,27 @@
+# MIDI note/CC name map
+68 Highest
+38 Lowest
+
+30 Syllable 7
+29 Syllable 6
+28 Syllable 5
+27 Syllable 4
+26 Syllable 3
+25 Syllable 2
+24 Syllable 1
+
+# Signals
+CC24 (Epic Choir) Ethereal 
+CC23 (Epic Choir) Tree 
+CC22 (Epic Choir) Close 
+
+# Big knob
+CC19 (Epic Choir) Reverb 
+CC18 (Epic Choir) Tightness
+CC17 (Epic Choir) Release
+
+CC11 (Epic Choir) Expression 
+CC10 (Epic Choir) Global Pan 
+CC7 (Epic Choir) Global Gain 
+CC1 (Epic Choir) Dynamics 
+
