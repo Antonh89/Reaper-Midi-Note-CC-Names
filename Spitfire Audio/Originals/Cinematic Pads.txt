@@ -1,0 +1,17 @@
+# MIDI note/CC name map
+96 Highest
+12 Lowest
+
+# Signals
+CC24 (Cinepads) Cinematic 
+CC23 (Cinepads) Bright 
+CC22 (Cinepads) Mellow 
+
+# Big knob
+CC19 (Cinepads) Reverb 
+CC18 (Cinepads) Tightness
+
+CC11 (Cinepads) Expression 
+CC10 (Cinepads) Global Pan 
+CC7 (Cinepads) Global Gain 
+CC1 (Cinepads) Dynamics 

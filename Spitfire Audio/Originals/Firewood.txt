@@ -1,0 +1,17 @@
+# MIDI note/CC name map
+108 Highest
+21 Lowest
+
+# Signals
+CC24 (Firewood) Pad 
+CC23 (Firewood) Mid 
+CC22 (Firewood) Close 
+
+# Big knob
+CC19 (Firewood) Reverb 
+CC18 (Firewood) Tightness
+
+CC11 (Firewood) Expression 
+CC10 (Firewood) Global Pan 
+CC7 (Firewood) Global Gain 
+CC1 (Firewood) Dynamics 
