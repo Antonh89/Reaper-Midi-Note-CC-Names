@@ -1,0 +1,13 @@
+# MIDI note/CC name map
+72 Highest
+36 Lowest
+
+15 Staccatissimo
+14 Sustained
+13 Legato Retongued
+12 Legato Fingered
+
+CC18 (Solo) Legato Smooth
+CC16 (Solo) Dynamic Range
+CC11 (Solo) Expression
+CC1 (Solo) Dynamics

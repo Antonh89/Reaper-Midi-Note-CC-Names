@@ -1,0 +1,13 @@
+# MIDI note/CC name map
+85 Highest
+55 Lowest
+
+15 Sustained Ooh
+14 Sustained Aah
+13 Legato Ooh
+12 Legato Aah
+
+CC18 (Solo) Legato Smooth
+CC16 (Solo) Dynamic Range
+CC11 (Solo) Expression
+CC1 (Solo) Dynamics

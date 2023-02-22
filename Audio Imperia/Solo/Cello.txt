@@ -1,0 +1,17 @@
+# MIDI note/CC name map
+72 Highest
+36 Lowest
+
+19 Trill Major
+18 Trill Minor
+17 Tremolo
+16 Pizzicato
+15 Spiccato
+14 Sustained
+13 Legato Slurred
+12 Legato Rebowed
+
+CC18 (Solo) Legato Smooth
+CC16 (Solo) Dynamic Range
+CC11 (Solo) Expression
+CC1 (Solo) Dynamics
