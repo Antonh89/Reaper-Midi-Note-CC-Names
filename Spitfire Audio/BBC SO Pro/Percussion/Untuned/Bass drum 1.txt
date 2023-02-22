@@ -1,0 +1,44 @@
+# MIDI note/CC name map
+58 Super ball
+57 Roll
+53 Hit damped
+52 Hit damped
+50 Hit
+48 Hit
+
+# Signals
+CC42 (BBCSO) Atmos Rear 
+CC41 (BBCSO) Atmos Front 
+
+CC40 (BBCSO) Spill Full 
+CC39 (BBCSO) Spill Percussion 
+CC38 (BBCSO) Spill Brass 
+CC37 (BBCSO) Spill Woodwinds 
+CC36 (BBCSO) Spill Strings 
+CC35 (BBCSO) Balcony 
+
+CC34 (BBCSO) Sides 
+CC33 (BBCSO) Mids 
+CC31 (BBCSO) Stereo 
+CC30 (BBCSO) Close Wide 
+CC29 (BBCSO) Leader 
+CC28 (BBCSO) Mono 
+
+CC27 (BBCSO) Ambient 
+CC26 (BBCSO) Outriggers 
+CC25 (BBCSO) Tree 
+CC24 (BBCSO) Close 
+CC23 (BBSCO) Mix 2
+CC22 (BBSCO) Mix 1
+
+# Big knob
+CC21 (BBCSO) Vibrato
+CC20 (BBCSO) Variation
+CC19 (BBCSO) Reverb
+CC18 (BBCSO) Tightness
+CC17 (BBCSO) Release
+
+CC11 (BBCSO) Expression
+CC10 (BBCSO) Global Pan 
+CC7 (BBCSO) Global Gain 
+CC1 (BBCSO) Dynamics
