@@ -1,0 +1,14 @@
+# MIDI note/CC name map
+97 Highest
+55 Lowest
+
+16 Tremolo
+15 Pizzicato
+14 Spiccato
+13 Sustained
+12 Legato
+CC21 (Nucleus) Vibrato
+CC18 (Nucleus) Legato Smooth
+CC16 (Nucleus) Dynamic Range
+CC11 (Nucleus) Expression
+CC1 (Nucleus) Dynamics
