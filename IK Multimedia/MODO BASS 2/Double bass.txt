@@ -1,0 +1,26 @@
+# MIDI note/CC name map
+75 High D#
+40 Low E
+39 DB Stop strings
+37 DB Slap Noise
+32 Stop on detach
+31 Force G String
+30 Slap
+29 Harmonics
+28 Force E String
+26 Force D String
+25 Pizziciato
+24 Legato
+22 Ghost mode
+21 Force A String
+15 Middle Stroke
+13 Index Stroke
+
+CC65 (MODO) Legato slide
+CC64 (MODO) Let ring
+CC9 (MODO) Muting
+CC5 (MODO) Bend
+CC4 (MODO) Left hand Position
+CC3 (MODO) Pluck position
+CC2 (MODO) Chord mode
+CC1 (MODO) Vibrato
