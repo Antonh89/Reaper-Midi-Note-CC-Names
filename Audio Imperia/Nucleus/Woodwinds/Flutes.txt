@@ -1,0 +1,15 @@
+# MIDI note/CC name map
+96 Highest
+94 Highest (Trill minor)
+92 Highest (Trill major)
+60 Lowest
+
+15 Trill Major
+14 Trill Minor
+13 Staccatissimo
+12 Sustained
+
+CC21 (Nucleus) Vibrato
+CC16 (Nucleus) Dynamic Range
+CC11 (Nucleus) Expression
+CC1 (Nucleus) Dynamics
